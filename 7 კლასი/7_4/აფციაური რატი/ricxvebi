@@ -1,0 +1,16 @@
+a=int(input("enter number"))
+i=1
+c=0
+if a%2==0:
+  print("luwia")
+else:
+  print("kentia")
+while i*2<=a:
+  if a%i==0:
+    c += 1
+if c==1: 
+  print("martivia")
+elif c>1: 
+  print("shedgenilia")
+else:
+  print(a+"<2")

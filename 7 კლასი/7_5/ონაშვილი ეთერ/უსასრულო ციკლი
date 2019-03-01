@@ -1,0 +1,10 @@
+while True:
+  print("Please enter the number:")
+  n=int(input())
+  
+print()
+  
+if n%2==1 and n%7==0:
+   break
+   
+print("Thank you!")

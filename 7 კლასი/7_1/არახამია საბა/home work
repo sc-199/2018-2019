@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+n=int(input())
+s=0
+l=0
+p-0
+while s<n
+ if s%2==1 and s%7==0
+  l+=s
+  p+=1
+  s+=1
+print(n,k)
+print(done!!!)

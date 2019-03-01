@@ -1,0 +1,12 @@
+n = int(input("enter the number: "))
+i = 0
+j = 0
+r = 0
+while true:
+    if i%2==1 and i%7==0:
+        j += i
+        r += 1
+    if i==n:
+        break
+    i += 1
+print("raodenoba:",r,"jami",j)

@@ -1,0 +1,8 @@
+n=input ("რიცხვი")
+n=int (n)
+ans=0
+z=n
+while n>0
+   ans+=n%10
+   n//10
+print (z,"ის ციფრთა ჯამი",ans)

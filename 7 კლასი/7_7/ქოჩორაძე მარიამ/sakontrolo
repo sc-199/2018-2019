@@ -1,0 +1,14 @@
+print("shemoitane_ricxvi")
+b=input(b)
+k=0
+a=0
+m=0
+while k<=b
+ if k%2==1 and k%7==0
+ a+=k
+ m+=1
+ k+=1
+ print(a)
+ print(m)
+ 
+ input()

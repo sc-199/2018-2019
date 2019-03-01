@@ -1,0 +1,11 @@
+n=int(input())
+z=0
+l=0
+m-0
+while z<n
+ if z%2==1 and z%7==0
+  l+=z
+  m+=1
+  z+=1
+print(n,m)
+print(done!!!)

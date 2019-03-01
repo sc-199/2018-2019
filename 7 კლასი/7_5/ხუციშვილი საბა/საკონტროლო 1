@@ -1,0 +1,11 @@
+n = int(input("please enter the number")
+a = 0
+g = 0
+r = 0
+while a <= n:
+ if a&7 == 0:
+  g += a
+  r += 1
+  a += 2
+  n&2 ==1
+print("ricxvebis jami:",g , "ricxvebis raodenoba:", r)

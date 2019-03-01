@@ -1,0 +1,11 @@
+n=int(input())
+x=0
+y=0
+m=0
+ while x<=n:
+   if x%2==1 and x%7==0
+    y+=x
+    m+=1
+   x+=1
+ print(y)
+ print(m)

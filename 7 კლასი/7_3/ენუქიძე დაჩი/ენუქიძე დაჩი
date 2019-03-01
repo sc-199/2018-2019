@@ -1,0 +1,6 @@
+print(„n-ნიშნა რიცხვის ციფრთა ჯამი“)
+n=(int(„enter integer number“))
+s=0
+while n!=s+=n%10
+n//=10
+print(s)

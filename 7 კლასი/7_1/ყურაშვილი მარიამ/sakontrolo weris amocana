@@ -1,0 +1,11 @@
+k=int(input())
+l=0
+d=0
+p=0
+ while l<=k:
+  if l%2==1 and l%7==0:
+   d+=l
+   p+=1
+   l+=1
+ print(d)
+ print(p)

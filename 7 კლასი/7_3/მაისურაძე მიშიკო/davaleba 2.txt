@@ -1,0 +1,12 @@
+﻿n = input ()
+n = int (n)
+m=0
+b=0
+ while (n>0):
+ if (n%2==1) and (n%7==0):
+  m+=1
+  b+=n
+n-=1
+ 
+ print ("ჯამია",b)
+ print ("რაოდენობაა",m)

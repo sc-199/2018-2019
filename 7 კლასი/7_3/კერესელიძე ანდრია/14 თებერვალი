@@ -1,0 +1,4 @@
+n = input("samnishna ricxvi :")
+n = int (n)
+k=n%100+n%10+(n//10)
+print(n,"ის ციფრთა ჯამი"k)
