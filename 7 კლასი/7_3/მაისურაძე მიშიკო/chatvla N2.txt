@@ -1,0 +1,10 @@
+     n = input()
+ n = int(n)
+     m=0
+     while n=>m:
+         if m%2==0:
+                 m+=1
+                 continue
+         print(m)
+         m+=1
+ 
