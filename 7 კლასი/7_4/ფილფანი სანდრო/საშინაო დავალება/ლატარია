@@ -1,6 +1,0 @@
-N = int(input("barieri:"))
-S= int(input("raodenoba:"))
-import random
-for i in range(S):
- print(random.randint(1, n))
-print("Done!")
