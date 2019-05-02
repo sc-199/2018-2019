@@ -1,0 +1,6 @@
+m = int(input("barieri:"))
+p = int(input("raodenoba:"))
+import random
+for i in range(p):
+  print(random.randint(1, m))
+print("Done!")
